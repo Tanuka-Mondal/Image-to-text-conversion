@@ -7,5 +7,6 @@ Process:
 1. Open text editor and create a file with .py extension (i.e, file.py).
 2. Open the command line window or go to the terminal and type: pip install pytesseract
 3. Then go to this website:https://github.com/UB-Mannheim/tesseract/wiki , download and install the Tesseract OCR executable.
-4. Then write down the code.
-5. Download an image with text and make sure that the python file and the image are in same folder.
+4. Download an image with text and make sure that the python file and the image are in same folder.
+5. Then write down the code.
+
